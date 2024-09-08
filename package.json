@@ -1,0 +1,15 @@
+{
+  "name": "parse-hospital-data",
+  "version": "1.0.0",
+  "description": "Coverts csv file into array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Affan Bin Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

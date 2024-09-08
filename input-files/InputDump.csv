@@ -1,0 +1,6 @@
+﻿hospital,address,floor,room,department
+Hackathon Hospital,"101 Black Street, Sector 21, Delhi",1,102,Orthopedia
+Hackathon Hospital,"101 Black Street, Sector 21, Delhi",2,210,ENT
+Hackathon Hospital,"101 Black Street, Sector 21, Delhi",4,402,Cardiology
+Blackathon Hospital,"21 Black Street, Sector 21, Delhi",6,602,Physio
+Blackathon Hospital,"21 Black Street, Sector 21, Delhi",10,1002,Neurology
